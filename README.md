@@ -19,7 +19,7 @@ Sample data insertion across related tables
 
 # How to Run in MySQL
 ``` bash
-git clone https://github.com/tigosun-dev/dogDaze.git
+git clone https://github.com/canistag/dogDaze.git
 cd dogDaze
 mysql -u root -p -e "CREATE DATABASE dogdaze;"
 
