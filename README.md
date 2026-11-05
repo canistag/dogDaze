@@ -27,11 +27,3 @@ This was done in case there was an extension or leading zero.
 
 ## Order Info as the Receipts Log
 The order_info table automatically generates a receipt by logging relevant information inside. Because the price is dependent on the package table, all the records change if the price does. In a future update, this will be added to accommodate growing businesses.
-
-# How to Run in MySQL
-``` bash
-git clone https://github.com/canistag/dogDaze.git
-cd dogDaze
-mysql -u root -p < create_db.sql
-mysql -u root -p dog_daze_db
-```
