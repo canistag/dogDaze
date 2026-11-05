@@ -1,6 +1,9 @@
 # Dog Daze Database
 A MySQL relational database modeling a dog grooming and boarding business.
 
+<img width="1025" height="812" alt="image" src="https://github.com/user-attachments/assets/b8b7e2b0-0585-45d7-9733-fbacf919fefd" />
+
+
 # Tech Stack
 MySQL
 
